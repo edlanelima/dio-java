@@ -1,7 +1,7 @@
 # Repositório para Projetos e Anotações do Curso de Java
 Repositório para atividades e anotações do curso.
 
-## Materiais complementares
+## :heavy_check_mark:Materiais complementares:
 
 - **Livro:** Controlando versões com Git e Github;
 - **Autores:** Alexandre Aquiles e Rodrigo Ferreira;
@@ -13,8 +13,8 @@ Repositório para atividades e anotações do curso.
 - **Autor:** Dennis Hutten;
 
 
-## Links importantes:
+## :heavy_check_mark:Links importantes: 
 
 - [Sintaxe Básica do Markdown](https://www.markdownguide.org/basic-syntax/);
-- [Documentação do Git](https://git-scm.com/docs).
-
+- [Documentação do Git](https://git-scm.com/docs);
+- [Lista de comandos Git](https://gist.github.com/leocomelli/2545add34e4fec21ec16).
