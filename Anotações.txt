@@ -1,0 +1,24 @@
+# Anotações do curso de Java
+
+## Git/GitHub
+- Git é um sistema de versionamento, flexível e genérico, criado no ano de 2005;
+- Os concorrente do Git são: Bitkeeper, CVS, Subversions etc.;
+- Além do GitHub, existem outras plataformas semelhantes, tais como: GitLab e Bitbucket.
+
+### Comandos básicos do prompt
+- **cd/**: retorna ao diretório principal;
+- **cls**: limpa a tela preta no SO Windows;
+- **echo > nomeQueQuiser.tipoDeExtensão**: cria um arquivo na pasta;
+- **mkdir**: cria um arquivo;
+- **dir**: lista as pastas.
+
+### Comandos básicos do GitHub (Bash)
+- **git init**: cria um novo repositório;
+- **git status**: verificar estado dos arquivos/diretórios;
+- **git add nomeDoArquivo.tipoDeExtensão**: adicionar um arquivo em específico;
+- **git add meu_diretorio**: adicionar um diretório em específico;
+- **git add .**: adicionar todos os arquivos/diretórios (OBS.: não é recomendável utilizar este comando, a menos que tenha certeza sobre o que está sendo trackeado pelo Git).
+- **git commit meu_arquivo.txt .**: comitar um arquivo;
+- **git clone urlDoRepositório**: clonar o repositório remoto no local;
+- **git push origin main**: "empurrar" os arquivos alterados do repositório local para o remoto.
+
