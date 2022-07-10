@@ -2,7 +2,7 @@
 
 ## Git/GitHub
 - Git é um sistema de versionamento, flexível e genérico, criado no ano de 2005;
-- Os concorrente do Git são: Bitkeeper, CVS, Subversions etc.;
+- Os concorrentes do Git são: Bitkeeper, CVS, Subversions etc.;
 - Além do GitHub, existem outras plataformas semelhantes, tais como: GitLab e Bitbucket.
 
 ### Comandos básicos do prompt
