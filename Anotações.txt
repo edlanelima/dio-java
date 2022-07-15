@@ -2,7 +2,7 @@
 
 ## Git/GitHub
 - Git é um sistema de versionamento, flexível e genérico, criado no ano de 2005;
-- Os concorrentes do Git são: Bitkeeper, CVS, Subversions etc.;
+- Os concorrente do Git são: Bitkeeper, CVS, Subversions etc.;
 - Além do GitHub, existem outras plataformas semelhantes, tais como: GitLab e Bitbucket.
 
 ### Comandos básicos do prompt
@@ -22,3 +22,9 @@
 - **git clone urlDoRepositório**: clonar o repositório remoto no local;
 - **git push origin main**: "empurrar" os arquivos alterados do repositório local para o remoto.
 
+## Dominando IDE's Java
+### Java
+- Java é uma linguagem orientada a objetos, desenvolvida pela empresa Sun Microsystems, na década de 90;
+- Paradigma de orientação a objetos;
+- É uma linguagem interpretada-> arquivo.java - compilador - arquivo.class - JVM interprete
+- A linguagem é compilada para um bytecode que é interpretado por uma máquina virtual (JVM)
